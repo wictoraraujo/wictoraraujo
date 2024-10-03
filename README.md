@@ -1,8 +1,10 @@
 # Olá! Eu sou o Wictor Duarte
 
 <div>
-  <h3>💻 Desenvolvedor Web Front End Jr - Em Formação<h3>
-  <h3>📚 Estou estudando HTML, CSS e Javascript<h3>
+  <h3>💻 Desenvolvedor Web Front End Jr<h3>
+  <h3>>💻 Tenho pouco mais de 2 anos e meio de experiência em desenvolvimentos de sistemas e-commerce<h3>
+  <h3>>💻 Durante esta experiência passada, atuei em dois projetos: [Vivara](https://www.vivara.com.br) e [Track&Field](https://www.tf.com.br/)<h3>
+  <h3>📚 Estou aprofundando meus conhecimentos em React e Typescript, e estudando Node.js e Nest.js e <h3>
 </div>
 <div>
   <a href="https://github.com/wictorduarte">
