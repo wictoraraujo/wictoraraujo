@@ -19,8 +19,8 @@
   <img align="center" alt="logo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="logo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="logo-Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="logo-GraphQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg">
-  <img align="center" alt="logo-Handlebars" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg">
+  <img align="center" alt="logo-GraphQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="logo-Handlebars" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
 </div>
   
   ##
@@ -30,6 +30,6 @@
   <a href = "mailto:wictorduarte@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wictorduartearaujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/wictoraraujo/wictoraraujo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wictorduarte/wictorduarte/blob/output/github-contribution-grid-snake.svg)
  
 </div>
